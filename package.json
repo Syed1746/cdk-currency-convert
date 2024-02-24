@@ -1,0 +1,27 @@
+{
+    "name": "cdk-currency-convert",
+    "version": "1.0.0",
+    "description": "npm package to convert the currency",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "test": "npm "
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Syed1746/cdk-currency-convert.git"
+    },
+    "keywords": [
+        "npm",
+        "cdk-currency-convert"
+    ],
+    "author": "syed sameer",
+    "license": "Apache-2.0",
+    "bugs": {
+        "url": "https://github.com/Syed1746/cdk-currency-convert/issues"
+    },
+    "homepage": "https://github.com/Syed1746/cdk-currency-convert#readme",
+    "dependencies": {
+        "@everapi/freecurrencyapi-js": "^1.0.1"
+    }
+}
